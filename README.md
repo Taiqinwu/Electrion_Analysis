@@ -54,7 +54,7 @@ Below is a screenshot of the output:
 
 <img width="338" alt="image" src="https://user-images.githubusercontent.com/107168891/178170387-f5a988f0-a828-4c9a-89d5-14a099d340dc.png">
 
-##Election Audit Summary
+## Election Audit Summary
 The script can be modified to analysis any elections result. 
 * By adjusting the code's source we can analysis other election result. 
 * We can also adjust the input for county to state or cities. 
